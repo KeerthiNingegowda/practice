@@ -1,0 +1,2 @@
+This is a file that contains documentation for feature2
+Branching in git is fun and exciting
