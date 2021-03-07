@@ -1,0 +1,2 @@
+This is documentation for feature4
+Git branches are really cool
