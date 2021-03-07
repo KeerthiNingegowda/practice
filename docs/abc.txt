@@ -1,0 +1,2 @@
+This is just a first file within docs.txt
+Just wanted to check how things will be organised
